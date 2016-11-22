@@ -40,7 +40,7 @@ header {
     width: 100%;
     height: auto;
     overflow-y: hidden;
-    background: url(../img/bg-landing.jpg), linear-gradient(to left, #437b97, #19b323);
+    background: url('http://i.imgur.com/IktEKGP.jpg'), linear-gradient(to left, #437b97, #19b323);
     background-size: cover;
     background-attachment: fixed;
     color: #fff;
@@ -161,7 +161,7 @@ hr.star-primary:after {
 
 .bg-secondary {
     color: #fff;
-    background: url('../img/bg-secondary.jpg');
+    background: url('http://i.imgur.com/3B2xX1O.jpg');
 }
 
 #portfolio .portfolio-item {
